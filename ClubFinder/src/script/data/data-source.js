@@ -1,5 +1,7 @@
 import clubs from "./clubs.js";
 
+console.log("clubs: ", clubs);
+
 class DataSource {
   contructor(onSuccess, onFailed) {
     this.onSuccess = onSuccess;

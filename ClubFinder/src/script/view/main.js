@@ -43,4 +43,5 @@ const main = () => {
   buttonSearchElement.addEventListener("click", onButtonSearchClicked);
 };
 
+export const data = "SISKA APRIANA RIFIANTI"
 export default main;
